@@ -3,11 +3,11 @@
 html {
   position: relative;
   min-height: 100%;
-  background-color: #111;
+  background-color: #666;
 }
 
 head {
-  background-color: #425;
+  background-color: #666;
   color: #FFFFFF;
 }
 
@@ -29,7 +29,7 @@ body {
 /* Not required for template or sticky footer method. */
 
 nav {
-    background-color: #444;
+    background-color: #777;
     color: #FFFFFF;
 }
 
@@ -67,7 +67,7 @@ section {
   padding-bottom: 15px;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: #444;
+  background-color: #777;
 }
 .center {
   display: block;
