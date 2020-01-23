@@ -29,8 +29,8 @@ body {
 /* Not required for template or sticky footer method. */
 
 nav {
-    background-color: #777;
-    color: #FFFFFF;
+    background-color: #454545;
+    color: #222;
 }
 
 .container {
@@ -67,7 +67,7 @@ section {
   padding-bottom: 15px;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: #777;
+  background-color: #555;
 }
 .center {
   display: block;
